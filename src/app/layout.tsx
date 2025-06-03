@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Palettely",
   description:
-    "Flexible theme and color mode system for modern Next.js apps. Simple logic. Full UI control. Style your way.",
+    "A lightweight, flexible theme and mode switcher for Next.js apps. Built with CSS variables, localStorage, and full UI control.",
 };
 
 export default function RootLayout({
